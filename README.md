@@ -1,5 +1,5 @@
 # Miniterminal
-![Picture](/miniterminal.jpg)
+![Picture](/miniterminal.jpeg)
 
 Send and receive serial messages without computer using PC keyboard, LCD and Teensy controller
 This is something I wanted to have for a long time: being able to send and receive short messages (for example Gcode to my CNC) without having to boot a computer.
